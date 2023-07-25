@@ -1,0 +1,7 @@
+% função não implementada
+%
+% siga as instruções dos exercícios 05 e 06 da lista 01, substitua 
+% a sua implem
+function [board_state, outcome] = move_eval(board_state, next_move)
+    outcome = 0;
+end
